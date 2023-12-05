@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de ANÁLISE DE SISTEMAS
 - 💼 Transicionando para a área de DESENVOLVIMENTO
-- 🌱 &nbsp; Aprendendo mais sobre **Front-End**.
+- 🌱 &nbsp;Aprendendo mais sobre **Front-End**.
 
 <h3>Minhas Skills</h3>
 
