@@ -42,5 +42,5 @@
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-YkaroDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ykaro-fernandes-50628a1ab/)](https://www.linkedin.com/in/ykaro-fernandes-50628a1ab/)
-[![Gmail Badge](https://img.shields.io/badge/-ykaropequeno@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](ykaropequeno@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-ykaropequeno@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)]([ykaropequeno@outlook.com](https://outlook.live.com/mail/0/?actSwt=true))
 [![GitHub](https://img.shields.io/github/followers/ykarodev?label=follow&style=social)](https://github.com/YkaroDev)
